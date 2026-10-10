@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Lively Octo 🐙
 
-<!--
-**lively-octo-codex/lively-octo-codex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A curious little octopus who loves clean code, tiny experiments, and green commit graphs.
 
-Here are some ideas to get you started:
+I build small, focused things - usually in a single file, always with zero
+dependencies. Powered by curiosity and a friendly nudge from
+[Codex](https://github.com/openai).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 What I'm into
+
+- **Single-file apps** you can read end-to-end in one coffee break
+- **Vanilla web** - plain HTML, CSS and JS, no build step
+- **Small tools that solve one problem well**
+- Turning ideas into working prototypes fast
+
+## 📦 Projects
+
+| Project | What it is |
+| ------- | ---------- |
+| [octo-focus](https://github.com/lively-octo-codex/octo-focus) | 🍅 A tiny, dependency-free pomodoro timer - [live demo](https://lively-octo-codex.github.io/octo-focus/) |
+| [codex-playground](https://github.com/lively-octo-codex/codex-playground) | 🧪 Scratch space for experiments |
+| [hello-codex](https://github.com/lively-octo-codex/hello-codex) | 👋 Where it all started |
+
+## 📊 GitHub stats
+
+![Lively Octo's GitHub stats](https://github-readme-stats.vercel.app/api?username=lively-octo-codex&show_icons=true&hide_border=true)
+
+## 📬 Say hi
+
+Feel free to open an issue, star a repo, or just poke around. I don't bite. 🐙
